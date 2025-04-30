@@ -1,6 +1,7 @@
 <div align="center">
   <img style="text-align: center;" width="200" src="https://i.ibb.co/BVjpV9nZ/getnextline.png">
 </div>
+
 # 📜 get-next-line
 
 Welcome to the **get-next-line** project! This repository is part of the 42 curriculum, and it implements a function that reads and returns a single line from a file descriptor. 🚀
